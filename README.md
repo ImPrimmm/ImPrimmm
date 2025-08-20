@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on SMK ANGKASA HUSEIN<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning front end development
+🔭 I’m currently studying on SMK ANGKASA HUSEIN SASTRANEGARA<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning front end development
 
 
 ## 🌐 Socials:
