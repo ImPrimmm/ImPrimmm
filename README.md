@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my Github Profile👋</h1>
+<h1 align="center">Hi 👋, I'm Prima Tanjung</h1>
 
 ###
 
@@ -38,12 +38,9 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ImPrimmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ImPrimmm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ImPrimmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=ImPrimmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=ImPrimmm&theme=dark&hide_border=false)
 
----
-[![](https://komarev.com/ghpvc/?username=ImPrimmm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
