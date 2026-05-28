@@ -37,18 +37,14 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ImPrimmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ImPrimmm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ImPrimmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImPrimmm/ImPrimmm/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ImPrimmm/ImPrimmm/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=ImPrimmm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImPrimmm/ImPrimmm/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImPrimmm/ImPrimmm/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ImPrimmm/ImPrimmm/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
